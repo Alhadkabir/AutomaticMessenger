@@ -1,2 +1,2 @@
-# AutomaticMessenger
+# PythonAutomaticMessenger
 Python-Automatic-Messenger
