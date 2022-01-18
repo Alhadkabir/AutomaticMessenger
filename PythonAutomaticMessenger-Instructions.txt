@@ -1,0 +1,16 @@
+
+								AutomaticMessenger
+
+
+
+	1. First install Pyautogui
+
+	2. Import Pyautogui
+
+	3. Type all codes
+
+
+		
+
+
+		$$Then Enjoy$$
